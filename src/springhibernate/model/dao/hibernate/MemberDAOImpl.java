@@ -9,7 +9,7 @@ import springhibernate.model.MemberTO;
 import springhibernate.model.dao.MemberDAO;
 
 
-
+//RE DO this part
 
 public class MemberDAOImpl implements MemberDAO {
     private HibernateTemplate hibernateTemplate;
